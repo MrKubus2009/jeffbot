@@ -1,0 +1,8 @@
+{
+  
+
+  "token": "process.env.token",
+  "prefix": "!",
+  "id": "180449801400352768",
+  "wait": "10"
+}
